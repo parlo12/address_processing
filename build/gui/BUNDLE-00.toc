@@ -1,0 +1,3 @@
+([('gui',
+   '/Users/rolflouisdor/Desktop/RMH-Real-Estate/Data-seperator/dist/gui',
+   'EXECUTABLE')],)
